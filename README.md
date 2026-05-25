@@ -1,4 +1,3 @@
-<!-- Snake Game Repo View -->
 
 
 
